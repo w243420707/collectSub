@@ -1,8 +1,7 @@
-https://bbjc.xyz/api/v1/client/subscribe?token=357c1cb1f5807136b3635b4bed9bc0ba
-https://cloud.gyyun.top/api/v1/client/subscribe?token=5971951fce13cde225763758ef42bb88
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://bbjc.xyz/api/v1/client/subscribe?token=d9c6ad661324dbd9b18645f60415b440
+https://bbjc.xyz/api/v1/client/subscribe?token=855ced0d96efd11cc5ed1f4a861177fb
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://www.qlgq.top/link/dd6fac5433c6e3dd?qlgq=1
-https://sub.bbjc.xyz/api/v1/client/subscribe?token=9eb3a420cad9a2e15ac3382a7031b4d2
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
