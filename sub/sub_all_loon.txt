@@ -1,6 +1,5 @@
-https://subs.zeabur.app/clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
-http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
-http://s4.subcsyun.online/api/v1/client/subscribe?token=8bbb2e298737eb76d7fa4cfe5c7c69ab
+https://ktmcloud.cool/api/v1/client/subscribe?token=110b38426190b2a3db8841d35062bcbb
+http://s1.subcsyun.online/api/v1/client/subscribe?token=9d63e9246b5c3644cc04a1ffe5fa7044
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
