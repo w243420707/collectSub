@@ -1,8 +1,8 @@
 https://sub4.bbjc.xyz/api/v1/client/subscribe?token=574a0ed5b534326523e55648d74b3392
-https://mc.jiedianxielou.workers.dev
+https://subs.zeabur.app/clash
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
 https://mc.jiedianxielou.workers.dev/
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://ktmcloud.cool/api/v1/client/subscribe?token=110b38426190b2a3db8841d35062bcbb
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://mc.jiedianxielou.workers.dev
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://sdgvps.com/api/v1/client/subscribe?token=c06c118dc052bed3635b018cbc4a39e6
