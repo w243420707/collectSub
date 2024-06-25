@@ -1,7 +1,5 @@
-https://api.abyssvpn.net/api/v1/client/subscribe?token=b9b7094f5ff0951df48bc73ee75709a3
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;amp;ttoken=767d2f8ed5d21a44b
+https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
+https://subs.zeabur.app/clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
 https://mc.jiedianxielou.workers.dev
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
