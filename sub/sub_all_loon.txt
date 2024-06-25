@@ -1,5 +1,8 @@
-https://api.abyssvpn.net/api/v1/client/subscribe?token=b9b7094f5ff0951df48bc73ee75709a3
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+http://dy.hpyjc.top/api/v1/client/subscribe?token=8cae880911989d6244ee7d24d400dabc
+https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
