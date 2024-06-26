@@ -1,7 +1,5 @@
+http://dy.hpyjc.top/api/v1/client/subscribe?token=8cae880911989d6244ee7d24d400dabc
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 http://s3.subcsyun.online/api/v1/client/subscribe?token=674fd0fbaba18cfbe5d4c6c4edb8b84e
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
