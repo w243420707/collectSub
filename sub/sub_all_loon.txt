@@ -1,7 +1,6 @@
+https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
 https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
-https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
-https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://d.palu123.com/apk/go/client/banzou?token=39ea85aebf62087fed292e5cb1787b56
-http://s3.subcsyun.online/api/v1/client/subscribe?token=674fd0fbaba18cfbe5d4c6c4edb8b84e
+https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
