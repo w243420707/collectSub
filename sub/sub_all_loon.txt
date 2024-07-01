@@ -1,6 +1,6 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://gyyun.top/api/v1/client/subscribe?token=8678459e5d73af7aca9c47b424e1dd7c
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?list=shadowrocket
-https://cloud.gyyun.top/api/v1/client/subscribe?token=b14b4270037cac18ab5151566e3b43cd
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://gyyun.top/api/v1/client/subscribe?token=73f842f211f4fe7daae1a21a47a11732
+https://acl.syyn.pw/api/v1/client/subscribe?token=b42590abeb74298050a5601f23e19201
+https://cloud.gyyun.top/api/v1/client/subscribe?token=95ed28d689e042a05a9fb6f4142e211c
+https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
 https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
