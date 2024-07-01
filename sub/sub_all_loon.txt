@@ -1,7 +1,9 @@
 https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
-https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
+https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
 https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
-https://mc.jiedianxielou.workers.dev/
+https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
 https://d.palu123.com/apk/go/client/banzou?token=39ea85aebf62087fed292e5cb1787b56
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
+http://s2.subcsyun.online/api/v1/client/subscribe?token=674fd0fbaba18cfbe5d4c6c4edb8b84e
+https://gyyun.top/api/v1/client/subscribe?token=73f842f211f4fe7daae1a21a47a11732
+https://cloud.gyyun.top/api/v1/client/subscribe?token=569e0cf2bc421b70e7df67a4740fcc56
+https://cloud.gyyun.top/api/v1/client/subscribe?token=b14b4270037cac18ab5151566e3b43cd
