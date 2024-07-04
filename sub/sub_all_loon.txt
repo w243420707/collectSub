@@ -1,7 +1,9 @@
-https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
+https://subs.zeabur.app/clash
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://www.moonriver.sbs/api/v1/client/subscribe?token=12730f73cc2b7c3451b825974642aca6
-http://s2.subcsyun.online/api/v1/client/subscribe?token=47a23448eab27803921c1e9f43618e22
-https://cloud.gyyun.top/api/v1/client/subscribe?token=5971951fce13cde225763758ef42bb88
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://oss.pithecia.com/api/v1/client/subscribe?token=ffe1b79549a733f34c61fe4fba533920
+https://dy.smjc.top/api/v1/client/subscribe?token=b12651a704cf680e5794f61827a46262
+http://s2.subcsyun.online/api/v1/client/subscribe?token=bda16b0a73c46b79c430671094a3030f
