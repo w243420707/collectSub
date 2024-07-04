@@ -1,12 +1,5 @@
-http://s4.subcsyun.online/api/v1/client/subscribe?token=8bbb2e298737eb76d7fa4cfe5c7c69ab
-https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
-https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
-https://duijie.cfyun.top/api/v1/client/subscribe?token=ca54fa025661c3e832cfb09345d7cc96
-https://gyyun.top/api/v1/client/subscribe?token=8678459e5d73af7aca9c47b424e1dd7c
+https://d.palu123.com/apk/go/client/banzou?token=97e454f284433a384e3c27449ac9412d
+https://duijie.cfyun.top/api/v1/client/subscribe?token=3e09b822117ee4c2d18a742f8e647dbb
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://mojie.app/api/v1/client/subscribe?token=7eb552aeb10bc561616d45612bcd0510
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://watch.szlatteart.com/api/v1/client/subscribe?token=d565fcd550324c2fae42ed7bcb4ce7cd
+https://pincht.sbs/api/v1/client/subscribe?token=37243207598ae12add91acff37cf921e
 https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
