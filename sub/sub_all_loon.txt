@@ -1,6 +1,5 @@
-https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
 https://subs.zeabur.app/clash
 https://node.zasublinkv1.com/link/vOrcKRtkDIDIngUJ?clash=1
-https://mf.591haoka.com/mfjd
-https://dy.chaozhijc.xyz/api/v1/client/subscribe?token=daedb86810208f41cca1e749d60b5349
-https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+http://s1.subcsyun.online/api/v1/client/subscribe?token=9b387462ee034ed2de4b14415ec2b9e5
