@@ -1,7 +1,5 @@
-https://api.bigme.online:8211/api/v1/client/subscribe?token=6674c05d3297078394f93ece18e5be9c
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-http://s1.subcsyun.online/api/v1/client/subscribe?token=e80457d01b5257f8e3e1b604ea623b8b
-http://s2.subcsyun.online/api/v1/client/subscribe?token=8a2c4ac0c6997c5f609b830d7a8f0c7a
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://subs.zeabur.app/clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89
+http://s.33y.run/v3/subscr?id=8aa9efb0eef14b9988c3c4fd0ac02b76
+https://mf.591haoka.com/mfjd
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
