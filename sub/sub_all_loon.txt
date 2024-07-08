@@ -1,4 +1,4 @@
 https://subs.zeabur.app/clash
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
+http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
+http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
+https://mf.591haoka.com/mfjd
