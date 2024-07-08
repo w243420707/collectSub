@@ -1,5 +1,2 @@
-https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
-https://feiniaoyun11.life/api/v1/client/subscribe?token=fbfbabca19161b2c24dfa7bebb58fda7
+http://6465307854ab0a2c82b66d32ffa2107e.52pokemon.top/api/v1/client/subscribe?token=8bae25c486e76f8dd12166c3dd33e6a4&amp;flag=ClashMeta
 https://dy.smjc.top/api/v1/client/subscribe?token=8a0300b8a03717a9ab6fcb3b92cdd2ed
-http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=7e0b3996a0aaf1bf13c0a7ba55ca11fe
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
