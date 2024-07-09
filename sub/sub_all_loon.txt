@@ -1,5 +1,5 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
-http://s1.subcsyun.online/api/v1/client/subscribe?token=e80457d01b5257f8e3e1b604ea623b8b
+https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
