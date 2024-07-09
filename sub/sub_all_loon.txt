@@ -1,7 +1,6 @@
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
 https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vx93d9/Qiaxwjdb7kfKX?rSw8Xd3fIKGZK8MDHbUs2tHKKKtPs0h274mwtqtnkLtz?GAUGKwyP7YyuDEMlD242/mqw0PjUavMF/LzUhR7PxRuXgf?okRH
+http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
 https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
+http://s3.subcsyun.online/api/v1/client/subscribe?token=f478a35474e68a49a7cf89ae1460f589
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+http://s2.subcsyun.online/api/v1/client/subscribe?token=bda16b0a73c46b79c430671094a3030f
