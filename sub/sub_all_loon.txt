@@ -1,6 +1,5 @@
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vx93d9/Qiaxwjdb7kfKX?rSw8Xd3fIKGZK8MDHbUs2tHKKKtPs0h274mwtqtnkLtz?GAUGKwyP7YyuDEMlD242/mqw0PjUavMF/LzUhR7PxRuXgf?okRH
 http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
 https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
-http://s3.subcsyun.online/api/v1/client/subscribe?token=f478a35474e68a49a7cf89ae1460f589
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
-http://s2.subcsyun.online/api/v1/client/subscribe?token=bda16b0a73c46b79c430671094a3030f
+https://subs.zeabur.app/clash
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
