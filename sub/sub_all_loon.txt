@@ -1,5 +1,5 @@
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
+https://dy1.hhyun.in/api/v1/client/subscribe?token=b2b0ef1a287d62b1ea437f162913f73f
 https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
 https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://subs.zeabur.app/clash
-https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
