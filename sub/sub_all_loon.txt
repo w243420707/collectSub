@@ -1,4 +1,7 @@
+https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://api.pithecia.com/api/v1/client/subscribe?token=f7982e46876d70d033ab1289015021cb
-https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
+https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
+https://sub1.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k961d68
