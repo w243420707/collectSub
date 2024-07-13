@@ -1,4 +1,7 @@
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+https://go.hhyun.in/api/v1/client/subscribe?token=3cf60db29b1e1e99388cb3d1a00a4e57
+https://cloud.gyyun.top/api/v1/client/subscribe?token=fc86a5d427904e5041b4a88f479705f2
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
+https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
