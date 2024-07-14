@@ -1,1 +1,2 @@
+https://mc.jiedianxielou.workers.dev
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=db963cec4b48c63da38a10ea8e7b4c9a
