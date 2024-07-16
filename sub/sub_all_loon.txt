@@ -1,4 +1,6 @@
-https://followcloud.space/api/v1/client/subscribe?token=f42a19bbb0db5a4edf7601485d5d0d85
+https://subs.zeabur.app/clash
+https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://kitsch.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=0dfc975e3f982a05c05ae36bcb5bf54c
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
+https://cloud.gyyun.top/api/v1/client/subscribe?token=ceea3df96aaa876e831c75694aa34a28
