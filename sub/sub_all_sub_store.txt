@@ -18,9 +18,9 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://login.djjc.cfd/api/v1/client/subscribe?token=fd9ae5cc5904b226a7cbc19858dcc90d
 https://gsjc.sbs/api/v1/client/subscribe?token=92effec668e4f3f3892467509896999a
 https://platform.djjc.cfd/api/v1/client/subscribe?token=8f2ada45a6cfe2f7e41b2a9fd6203e2c
+https://gates.djjc.cfd/api/v1/client/subscribe?token=07ed6955beffc4d3e92093411b8069b4
 https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
@@ -57,6 +57,7 @@ http://s3.subcsyun.online/api/v1/client/subscribe?token=f478a35474e68a49a7cf89ae
 https://bansub7.bplink.xyz/api/v1/client/subscribe?token=e78b428259cd7b104b9273be1dcf97bc
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
 https://jindouyun88.life/api/v1/client/subscribe?token=9e747464d13d756b0d5641630b2dda13
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=af21d9eddb8520620406bbd70d8d5874
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
 https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
 http://s2.subcsyun.online/api/v1/client/subscribe?token=bda16b0a73c46b79c430671094a3030f
@@ -64,7 +65,6 @@ https://blueAir.colacloud.free.hr/api/v1/client/subscribe?token=e9fd7c95902accf8
 https://blueAir.colacloud.free.hr/api/v1/client/subscribe?token=aa6f0d580d9f6214b5864bef9c82225e
 http://s4.subcsyun.online/api/v1/client/subscribe?token=8bbb2e298737eb76d7fa4cfe5c7c69ab
 http://s2.subcsyun.online/api/v1/client/subscribe?token=47a23448eab27803921c1e9f43618e22
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=af21d9eddb8520620406bbd70d8d5874
 https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
 https://sub2.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238d68
 http://s1.subcsyun.online/api/v1/client/subscribe?token=9b387462ee034ed2de4b14415ec2b9e5
@@ -79,8 +79,8 @@ https://www6.1st-subscription-from-chickenfarmer.top/api/v1/client/subscribe?tok
 https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
 http://s2.subcsyun.online/api/v1/client/subscribe?token=8a2c4ac0c6997c5f609b830d7a8f0c7a
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=71139136f1c18bf0b250e72d443aeb57
-http://s1.subcsyun.online/api/v1/client/subscribe?token=93b6301bf3a4f6105cc3ee1940179c4b
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+http://s1.subcsyun.online/api/v1/client/subscribe?token=93b6301bf3a4f6105cc3ee1940179c4b
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://cloud.gyyun.top/api/v1/client/subscribe?token=b40f88ca289887fa236295b5394c89d6
 https://xfsnet.com/api/v1/client/subscribe?token=b6604f287cdf8e5665ebc7393755cae6
