@@ -1,6 +1,7 @@
 https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://mc.jiedianxielou.workers.dev
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-http://6465307854ab0a2c82b66d32ffa2107e.52pokemon.top/api/v1/client/subscribe?token=8bae25c486e76f8dd12166c3dd33e6a4&amp;flag=ClashMeta
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
