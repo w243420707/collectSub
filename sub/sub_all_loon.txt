@@ -1,7 +1,6 @@
-https://subs.zeabur.app/clash
 https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://xfsnet.com/api/v1/client/subscribe?token=89a17f5d53e722a43b35e1daa3b9c195
 https://mc.jiedianxielou.workers.dev/
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
-http://s1.subcsyun.online/api/v1/client/subscribe?token=93b6301bf3a4f6105cc3ee1940179c4b
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+http://s1.subcsyun.online/api/v1/client/subscribe?token=e80457d01b5257f8e3e1b604ea623b8b

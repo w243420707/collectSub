@@ -1,7 +1,10 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-http://s4.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://gyyun.top/api/v1/client/subscribe?token=8678459e5d73af7aca9c47b424e1dd7c
-https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://nn0310.xn--8stx8olrwkucjq3b.com/link/s5dKUGkwULYjM07K?clash=1
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+http://s2.subcsyun.online/api/v1/client/subscribe?token=674fd0fbaba18cfbe5d4c6c4edb8b84e
+https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
+https://duijie.cfyun.top/api/v1/client/subscribe?token=972b503b226f014a372924bced33a971
+https://dy.tagsub.net/api/v1/client/subscribe?token=71d0f65c5cc21d620b1765b03d78530e
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=1b6d7e703d683feb3b4c6c78d67a7fb4
+https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
+https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
+https://pqjc.site/api/v1/client/subscribe?token=5d5da3b602584a2760827e7fd0fd34e7
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
