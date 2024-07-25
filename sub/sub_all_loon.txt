@@ -1,10 +1,9 @@
-https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
 https://subs.zeabur.app/clash
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://mojie.app/api/v1/client/subscribe?token=9b796d79905a49c1f75139a9f5650b7f
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
-https://s6.ssysub1.xyz/api/v1/client/subscribe?token=bd9e690bb521e690f959437e42b3ffc4
-http://s2.subcsyun.online/api/v1/client/subscribe?token=47a23448eab27803921c1e9f43618e22
-http://s1.subcsyun.online/api/v1/client/subscribe?token=e80457d01b5257f8e3e1b604ea623b8b
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=e0e066b5e6ea55ac90d704031505df2c&amp;flag=meta
+http://s2.subcsyun.online/api/v1/client/subscribe?token=bda16b0a73c46b79c430671094a3030f
+http://s1.subcsyun.online/api/v1/client/subscribe?token=9b387462ee034ed2de4b14415ec2b9e5
+https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
