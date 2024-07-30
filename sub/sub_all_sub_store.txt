@@ -37,6 +37,7 @@ https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
 https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
 https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://dy.smjc.top/api/v1/client/subscribe?token=92374ced833937e6d607bf09d727d623&amp;flag=meta
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
 https://app.cloudlion.me/api/v1/client/subscribe?token=f15159a12186dbdb188e2c9887ffd5f4
 https://www.360vpn.org/api/v1/client/subscribe?token=911dd116273f0e76db9ea247bba5138c
@@ -45,10 +46,10 @@ https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c9
 http://s2.subcsyun.online/api/v1/client/subscribe?token=6343d52794c212503ed52ec3784f93d9
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
+https://www.pkqcloud.com/link/RHowYHWRWsmHJA2P?clash=1
 https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://www.pkqcloud.com/link/RHowYHWRWsmHJA2P?clash=1
 https://bansub7.bplink.xyz/api/v1/client/subscribe?token=e78b428259cd7b104b9273be1dcf97bc
 http://s3.subcsyun.online/api/v1/client/subscribe?token=f478a35474e68a49a7cf89ae1460f589
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
