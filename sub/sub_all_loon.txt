@@ -1,8 +1,7 @@
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
-https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
 https://sus.yibao.ink/api/v1/client/subscribe?token=0cebec815ac59253611cd4818b1a8283
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
-http://s1.subcsyun.online/api/v1/client/subscribe?token=9b387462ee034ed2de4b14415ec2b9e5
+http://s1.subcsyun.online/api/v1/client/subscribe?token=e973599ee83a00fd0ed103e7c58aacef
