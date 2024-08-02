@@ -1,6 +1,6 @@
-https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev/
-https://nano.nachoneko.cn/api/v1/client/subscribe?token=cca4b7039bf58ed6a354d8191f287875
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
-https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
+https://sub.lzyjc.xyz/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
