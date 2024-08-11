@@ -1,9 +1,7 @@
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
 https://auth.newlikebooks.xyz/api/v1/client/subscribe?token=8609a1945e395789541f5b10bb7e48b5
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev/
-https://alpha.sagittarius-link.com/link/mYNbw4utKhR5vnT3?sub=3
+https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=6703942b160d96949635c9c9aa3d758d
-https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
