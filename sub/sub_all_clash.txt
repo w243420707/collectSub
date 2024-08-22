@@ -1,10 +1,7 @@
-https://api.1vpn.sbs/api/v1/client/subscribe?token=666e3e7537a709448e495688006a0684
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=a3fe37757d77f2e3b46036ef1aebf864
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://jlhcloud.us.kg/api/v1/client/subscribe?token=7f6d50b947f081ddaaf77a2ab75379f5
-https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
-https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://sub5.huy.0.srl/api/v1/client/subscribe?token=19918504e77f7ae488fb06c3134ae056
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vx93d9/Qiaxwjdb7kfKX?rSw8Xd3fIKGZK8MDHbUs2tHKKKtPs0h274mwtqtnkLtz?GAUGKwyP7YyuDEMlD242/mqw0PjUavMF/LzUhR7PxRuXgf?okRH
+https://mc.jiedianxielou.workers.dev/
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://sub2.bighneko.top/api/v1/client/subscribe?token=e07f1d406c5aeaebb21dbcce1a6115c5
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
