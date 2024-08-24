@@ -1,4 +1,3 @@
-http://dishujichang.xyz/api/v1/client/subscribe?token=6b21c7b1788c1c179bbeadc7ba40b001
-https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=598854a8bff2828ff7a4a72358fd2477
 http://s1.subcsyun.online/api/v1/client/subscribe?token=e0609b76ae42c5ff72013acb95c91fa8
