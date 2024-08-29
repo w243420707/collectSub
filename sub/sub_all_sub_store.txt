@@ -17,9 +17,9 @@ https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
 https://subs.zeabur.app/clash
+https://sub5.gfw.gg/api/v1/client/subscribe?token=2292eb1eaa08282b7fca54beda55d662
 https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
 http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
-https://sub5.gfw.gg/api/v1/client/subscribe?token=2292eb1eaa08282b7fca54beda55d662
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://fellayun.cc/api/v1/client/subscribe?token=f89e8f6f920e91d308d66f838c35d26e
@@ -32,8 +32,8 @@ https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
-https://app.cloudlion.me/api/v1/client/subscribe?token=40ab7e8193ec015552e6632208a95d63
 https://duijie.pingziyun.top/api/v1/client/subscribe?token=94e912f06bd687f53837dc19718e6caf
+https://app.cloudlion.me/api/v1/client/subscribe?token=40ab7e8193ec015552e6632208a95d63
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
 https://app.cloudlion.me/api/v1/client/subscribe?token=882b6373ee52438f1380affb3d24b100
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
@@ -50,6 +50,7 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f7946426875a&amp;flag=meta
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://app.cloudlion.me/api/v1/client/subscribe?token=098ad8fdae23fc3f0a12bac385f12cf3
 https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
