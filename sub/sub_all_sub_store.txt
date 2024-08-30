@@ -13,6 +13,7 @@ https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307df
 https://mydy.xlm.plus/api/v1/client/subscribe?token=557f584e0342796ea6da2d4bcf54a456
 https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
 https://subs.zeabur.app/clash
@@ -25,10 +26,7 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://lianjiasub.work/api/v1/client/subscribe?token=0e8c48216aedec40cc2f52b229d838c7
 https://mydy.xlm.plus/api/v1/client/subscribe?token=4997f8b836b11526f0ca837e7c9e1115
-https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
-https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
-https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
 https://app.cloudlion.me/api/v1/client/subscribe?token=40ab7e8193ec015552e6632208a95d63
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
@@ -66,7 +64,6 @@ https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://591haoka.com/coco-10000TB
 https://duijie.pingziyun.top/api/v1/client/subscribe?token=f886fedc5b027490060ae32104a2b553
-https://sux.lol/api/v1/client/subscribe?token=37a14d01b2277276853af9b8fdea5e89&amp;flag=meta
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
 https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
