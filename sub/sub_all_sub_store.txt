@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
@@ -48,10 +47,10 @@ https://xn--cp3a08l.com/api/v1/client/subscribe?token=d9a77e1c74b9f9716d4358a2ad
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f7946426875a&amp;flag=meta
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://app.cloudlion.me/api/v1/client/subscribe?token=40ab7e8193ec015552e6632208a95d63
 http://s3.subcsyun.online/api/v1/client/subscribe?token=a5bcb23b5da2f45afd576df76d41204d
-http://s2.subcsyun.online/api/v1/client/subscribe?token=497a890e5871157287255761fb56f8ad
+https://app.cloudlion.me/api/v1/client/subscribe?token=40ab7e8193ec015552e6632208a95d63
 https://20240802.canadapost-vip.com/api/v1/client/subscribe?token=c73b01ede92ec73221721267c6521d28
+http://s2.subcsyun.online/api/v1/client/subscribe?token=497a890e5871157287255761fb56f8ad
 https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=8e99b21ebc6d7fd00140cbe66b94123e
 http://s1.subcsyun.online/api/v1/client/subscribe?token=e0609b76ae42c5ff72013acb95c91fa8
