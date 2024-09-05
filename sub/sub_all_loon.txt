@@ -1,6 +1,6 @@
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
