@@ -42,8 +42,8 @@ https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://app.cloudlion.me/api/v1/client/subscribe?token=098ad8fdae23fc3f0a12bac385f12cf3
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=3715a07dc448ad9f275aa73e54b762b7&amp;types=vmess
 https://1.bethebest.eu.org/api/v1/client/subscribe?token=3715a07dc448ad9f275aa73e54b762b7
+https://1.bethebest.eu.org/api/v1/client/subscribe?token=3715a07dc448ad9f275aa73e54b762b7&amp;types=vmess
 https://xn--wlqw2sc0nwqq.xyz/api/v1/client/subscribe?token=9faa2a0e4872697501e2f7946426875a&amp;flag=meta
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
@@ -61,8 +61,8 @@ https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=57ad9ac75417c0a42b3151ac85ad401b
 http://s1.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
 https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
+https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
 https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf2715
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://syyn.xyz/api/v1/client/subscribe?token=1b49383898b23801b5965869a6cb12d7
@@ -75,8 +75,8 @@ https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
 https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 
 
