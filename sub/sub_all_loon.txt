@@ -1,7 +1,8 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://wvw.guanxi.cloudns.be/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-http://s1.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=c3159a08ec178eadb8fa89ee5700dd03
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
+http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
+http://s1.subcsyun.online/api/v1/client/subscribe?token=e0609b76ae42c5ff72013acb95c91fa8
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
