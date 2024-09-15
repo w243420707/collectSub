@@ -1,8 +1,9 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://sub.lingche.icu/api/v1/client/subscribe?token=421aeef09bfb42130122d7f902c44453
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://ktmcloud.me/api/v1/client/subscribe?token=3a9ff76baff1e6b22b5f42c384357b4b
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://s6.ssysub1.xyz/api/v1/client/subscribe?token=fba3fbf541b89531535d17a732d54f8e
+https://subs.zeabur.app/clash
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+http://s1.subcsyun.online/api/v1/client/subscribe?token=111bc949460d4d7a5109d244e7d5e307
+http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
