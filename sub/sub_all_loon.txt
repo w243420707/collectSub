@@ -1,7 +1,8 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://mc.jiedianxielou.workers.dev/
-https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://subpanghujichang.xn--y20az5i.xyz/api/panghu?token=35021b3ad51d135a8e93629cfeebb94a
+https://mc.jiedianxielou.workers.dev
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+http://s2.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
