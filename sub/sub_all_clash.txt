@@ -1,9 +1,7 @@
-http://s3.subcsyun.online/api/v1/client/subscribe?token=a5bcb23b5da2f45afd576df76d41204d
-http://url.ni8.co/api/v1/client/subscribe?token=4477732e35c3480c201df1cd97ac121e
-https://20240802.canadapost-vip.com/api/v1/client/subscribe?token=fa95a8fed800ed6f4a9e5f82493b0bf8
-https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://sub.19993999.xyz/api/v1/client/subscribe?token=5e86905ce536430c6a5d081034486540
-https://sus.alicenetwork.cloud/api/v1/client/subscribe?token=819989e04f35b7479785023008386c5d
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://link1.db-sub.xyz/link/e4Fa6gRx9sfoviJk?sub=3
+https://mro5n.no-mad-world.club/link/5sXDluQT5cSVGrSF?clash=3&amp;extend=1
+https://sub.lingche.icu/api/v1/client/subscribe?token=421aeef09bfb42130122d7f902c44453
+https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
