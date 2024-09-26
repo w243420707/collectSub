@@ -1,8 +1,8 @@
-https://20240802.canadapost-vip.com/api/v1/client/subscribe?token=fa95a8fed800ed6f4a9e5f82493b0bf8&amp;flag=meta
-https://asa01.888545.xyz/api/v1/client/subscribe?token=5faea22f4ed0315d43b71f040f740106
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
+http://url.ni8.co/api/v1/client/subscribe?token=0534d4353c5acd7de94d2e51b82ebeb8
+https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
+https://cedb4ccc-89b7-3a24-962c-ea8f65b11deb.aliyunsub.com/link/3kjWSxNGuWbqnUHP?sub=3&amp;extend=1
+https://haitunfree.luodaifan.top/haitunfree
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://tokenapi.fbcloud.lol/api/v1/client/subscribe?token=a4d36cac7f44e35225657f53008bc4ae
