@@ -1,8 +1,7 @@
-https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://mc.jiedianxielou.workers.dev/
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-http://s2.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://haitunfree.luodaifan.top/haitunfree
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
