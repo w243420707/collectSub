@@ -1,9 +1,5 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
-http://s2.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
-https://sub.tku2.com/api/v1/client/subscribe?token=f42471e1da8b5ad07bcd676415c03f09
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-http://url.ni8.co/api/v1/client/subscribe?token=4477732e35c3480c201df1cd97ac121e
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
-https://www.sstank.top/link/u6n48bednngklddq?sub=3
+https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://xcyun.co/xe45lgf21?token=b0e4156ad42a2be48ca1f35ea73bee7e
