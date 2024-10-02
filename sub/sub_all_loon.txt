@@ -1,8 +1,7 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://subs.zeabur.app/clash
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=b65f146b09c16e19fa0b2acc76f311e5
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
 https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
-http://s4.subcsyun.online/api/v1/client/subscribe?token=e793ceb5b8f7fd37c1e9e977d10db626
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
