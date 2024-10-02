@@ -1,6 +1,7 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
 https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://csgo2.fask511.cfd/api/v1/client/subscribe?token=554274f553d309be286d0a19ab8d3bae
+https://wjkc123.com/api/subscript/clash/66e588aaaf23a823ae52a4cd/a099bca2-2282-40a6-a769-a0d91a246c39
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
