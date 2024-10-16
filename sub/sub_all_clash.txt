@@ -1,7 +1,9 @@
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://subs.zeabur.app/clash
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
+https://dy.smjc.top/api/v1/client/subscribe?token=c0d7961b030f6a2b794424d16042a2a7
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed
+https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
