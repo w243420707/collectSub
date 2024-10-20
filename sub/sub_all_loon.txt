@@ -1,6 +1,5 @@
-https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://qq.xlm.plus/api/v1/client/subscribe?token=05d01f2d3e940fc989b3bd9ffb41f0cd
 https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
-https://mc.jiedianxielou.workers.dev/
-https://qq.xlm.plus/api/v1/client/subscribe?token=852ce0f11d6e3ad74b8b2ca3062abdee
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
