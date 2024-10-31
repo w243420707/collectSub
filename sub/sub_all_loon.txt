@@ -1,5 +1,5 @@
-https://mc.jiedianxielou.workers.dev
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
-https://subs.pithecia.com/api/v1/client/subscribe?token=77a175ccb5f2693374f3c19fa1759158
+https://mc.jiedianxielou.workers.dev
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
