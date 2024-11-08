@@ -1,7 +1,8 @@
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=f0f3bfe984d260e8d7fc39bdc495f782
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
+https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
