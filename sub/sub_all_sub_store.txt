@@ -1,9 +1,7 @@
 -- play_list --
 
 
-https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
@@ -29,13 +27,10 @@ https://sub.sanfen018.xyz/api/v1/client/subscribe?token=345e0fd313f9ef93b0ff8476
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://ss.81dlg.com/dy/ss?token=96e90d040e0350d87c70faa973892426
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
-https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
-https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://a.aikllc.tech/api/v1/client/subscribe?token=bb0b4de5961dc7baf37398cc24c45eb7
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
@@ -50,7 +45,6 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 http://g3i.buzz/v3/subscr?id=80bc8b9f7cf643e5b0f2b90a048d8ce5
 https://api.liltjay.ip-ddns.com/TQWMYCWH2D
 https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
-https://sub.tgzdyz2.xyz/sub
 https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
 https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
 https://d1to2me5cb4qc0.cloudfront.net/api/v1/client/subscribe?token=ab2f50f47bf28d3a7ee2dbdcbfda4b86
