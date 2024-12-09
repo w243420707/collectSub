@@ -1,5 +1,7 @@
+http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
 https://mc.jiedianxielou.workers.dev/
-http://g3i.buzz/v3/subscr?id=80bc8b9f7cf643e5b0f2b90a048d8ce5
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://mc.jiedianxielou.workers.dev
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
