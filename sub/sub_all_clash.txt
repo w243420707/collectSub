@@ -1,6 +1,3 @@
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://pqjc.site/api/v1/client/subscribe?token=35ed5ecc542b4059f3eaae4a89fae3e3
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
-https://www.kuaidog008.top/api/v1/client/subscribe?token=4ecbd1644bd0dfbd8022c8e0ee60d9e4
+https://pqjc.site/api/v1/client/subscribe?token=0d41f5bd237d1ab92b907e1e7d5e5cb3
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://sub.tianmaojichang.us.kg/api/v1/client/subscribe?token=79f42f2ab22514dc8fb8b315fad86e4c
