@@ -1,8 +1,4 @@
-http://gbtgurl01.org/api/v1/client/subscribe?token=6ffdb23ecb80f2976136b2328bd8accd
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=836add593609211e0062c535356b5533
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://zouma.guanhua.xyz/api/v1/client/subscribe?token=156786559d386ce1fb6a2aa97925c240
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
