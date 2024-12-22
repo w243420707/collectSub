@@ -1,11 +1,5 @@
+http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
+https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
+https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=35911e9a69a8bc49adf86904c16944ce
 https://pqjc.site/api/v1/client/subscribe?token=0d41f5bd237d1ab92b907e1e7d5e5cb3
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://0d2th.no-mad-world.club/link/dacqbivsqysnpzlq?clash=3&amp;extend=1
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
-https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=a963a261a3b8c29027a09c36def5b862
-https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=836add593609211e0062c535356b5533
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
-https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
