@@ -1,5 +1,1 @@
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
