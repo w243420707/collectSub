@@ -1,7 +1,9 @@
-https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
-https://pqjc.site/api/v1/client/subscribe?token=c52d1f5d27546cca5fd92b2e4f53020b
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
 https://569cdn.1010520.click/api/v1/client/subscribe?token=2af75f7c27dfa0e5aa175c7c64c01f28
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://pqjc.site/api/v1/client/subscribe?token=3d6eff5762bfb3897c2c811b1542de2d
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
+https://api.xinyo.vip/api/v1/client/subscribe?token=32766ad77e22239683fc3b9e2a06f4bd
