@@ -1,2 +1,5 @@
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+http://panda.xn--i8sx78aisa52z.com/api/v1/client/subscribe?token=6d6ce997bff58396d7e9760e7a56c3b1
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
