@@ -1,7 +1,3 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://dy.kuailejc.xyz/api/v1/client/subscribe?token=707cfdd1244ebb0dd75bf2cb48fe3610
-https://pqjc.site/api/v1/client/subscribe?token=5edc13859a73d260b04a00cf17914a5e&amp;flag=meta
-https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
-https://www.kuaidog008.top/api/v1/client/subscribe?token=80c382de60dec4f804fde1fe976bfd5f
-https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
-https://api.xinyo.vip/api/v1/client/subscribe?token=731485d80bbbde226e16ffac57a57554
+https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
+https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
+https://subs.zeabur.app/clash
