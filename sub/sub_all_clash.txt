@@ -1,9 +1,8 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://api.xinyo.vip/api/v1/client/subscribe?token=b0e5f918cf3c088dcfa65bf1f0a40ba1
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://pqjc.site/api/v1/client/subscribe?token=5821a64c83746e82681f1317c3825235&amp;flag=meta
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7ec2921d512b10dfcd1dcf09b06e00de
+https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
+https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
+https://ch.cukug.website/api/v1/client/subscribe?token=d96b48a34918ab096906275485b162bb
+https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=dc651326e2ce650def8fc3772d7187c5
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
+https://ss.81dlg.com/dy/ss?token=728548d2de400da7dc5e1c39c198919d
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
