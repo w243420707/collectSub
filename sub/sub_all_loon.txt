@@ -1,2 +1,3 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=6523907bc4b84d76f356caf235328de0
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=c1e9524933ff7c6f071066921c94b9f4&amp;flag=sing#%E5%BF%AB%E4%B9%90%E6%9C%BA%E5%9C%BA
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
